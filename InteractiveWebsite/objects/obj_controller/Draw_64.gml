@@ -17,3 +17,6 @@ for(var i = 2; i<5; i++){
 
 draw_text_formatting(c_black, fa_center, fa_middle, font_large);
 draw_text(browser_width/2, 64, "Jonathan Wiggins");
+
+draw_set_color(c_gray);
+draw_rectangle((browser_width/2)-64, 100, (browser_width/2)-64 + (128 * global.progress / 100), 110, false);
