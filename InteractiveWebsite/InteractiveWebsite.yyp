@@ -78,6 +78,7 @@
     {"id":{"name":"array_shift_vertical","path":"scripts/array_shift_vertical/array_shift_vertical.yy",},"order":0,},
     {"id":{"name":"smooth_to_target","path":"scripts/smooth_to_target/smooth_to_target.yy",},"order":0,},
     {"id":{"name":"random_point_in_circle_hollow","path":"scripts/random_point_in_circle_hollow/random_point_in_circle_hollow.yy",},"order":0,},
+    {"id":{"name":"font_large","path":"fonts/font_large/font_large.yy",},"order":0,},
     {"id":{"name":"char_is_upper","path":"scripts/char_is_upper/char_is_upper.yy",},"order":0,},
     {"id":{"name":"smooth_in_out","path":"scripts/smooth_in_out/smooth_in_out.yy",},"order":0,},
     {"id":{"name":"draw_gui_init","path":"scripts/draw_gui_init/draw_gui_init.yy",},"order":0,},

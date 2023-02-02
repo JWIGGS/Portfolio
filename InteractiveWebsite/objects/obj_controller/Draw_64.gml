@@ -1,4 +1,8 @@
-/// @description 
+/// @description
+
+draw_set_color(c_white);
+draw_rectangle(0, 0, browser_width, browser_height, false);
+
 draw_set_color(c_red);
 
 for(var i = 2; i<5; i++){
@@ -10,3 +14,6 @@ for(var i = 2; i<5; i++){
 	draw_line(mouse_x, 0, mouse_x,  window_get_height());
 
 }
+
+draw_text_formatting(c_black, fa_center, fa_middle, font_large);
+draw_text(browser_width/2, 64, "Jonathan Wiggins");
