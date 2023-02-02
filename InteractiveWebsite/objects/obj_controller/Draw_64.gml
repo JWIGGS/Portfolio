@@ -20,3 +20,6 @@ draw_text(browser_width/2, 64, "Jonathan Wiggins");
 
 draw_set_color(c_gray);
 draw_rectangle((browser_width/2)-64, 100, (browser_width/2)-64 + (128 * global.progress / 100), 110, false);
+
+// Draw player
+draw_sprite_to_size(spr_player, 0, browser_width * 0.25, browser_height * 0.5, browser_width * 0.3, browser_height * 0.5, 0, c_white, 1);

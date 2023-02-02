@@ -59,6 +59,7 @@
     {"id":{"name":"gui_point_x","path":"scripts/gui_point_x/gui_point_x.yy",},"order":0,},
     {"id":{"name":"draw_text_formatting","path":"scripts/draw_text_formatting/draw_text_formatting.yy",},"order":0,},
     {"id":{"name":"array_return","path":"scripts/array_return/array_return.yy",},"order":0,},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"array_random_element","path":"scripts/array_random_element/array_random_element.yy",},"order":0,},
     {"id":{"name":"array_value_to_2d","path":"scripts/array_value_to_2d/array_value_to_2d.yy",},"order":0,},
     {"id":{"name":"map_range","path":"scripts/map_range/map_range.yy",},"order":0,},

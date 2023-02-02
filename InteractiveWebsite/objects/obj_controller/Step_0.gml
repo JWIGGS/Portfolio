@@ -6,7 +6,6 @@ if(mouse_check_button_pressed(mb_left)){
 }
 
 if(mouse_check_button(mb_left)){
-	var scale = browser_height/10;
 	global.progressTarget += yPrev - mouse_y;
 	yPrev = mouse_y;
 	
