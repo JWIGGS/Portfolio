@@ -56,6 +56,7 @@
     {"id":{"name":"array_contains","path":"scripts/array_contains/array_contains.yy",},"order":0,},
     {"id":{"name":"unique_arguments","path":"scripts/unique_arguments/unique_arguments.yy",},"order":0,},
     {"id":{"name":"ascii_compress","path":"scripts/ascii_compress/ascii_compress.yy",},"order":0,},
+    {"id":{"name":"draw_sprite_fill_area","path":"scripts/draw_sprite_fill_area/draw_sprite_fill_area.yy",},"order":0,},
     {"id":{"name":"gui_point_x","path":"scripts/gui_point_x/gui_point_x.yy",},"order":0,},
     {"id":{"name":"draw_text_formatting","path":"scripts/draw_text_formatting/draw_text_formatting.yy",},"order":0,},
     {"id":{"name":"array_return","path":"scripts/array_return/array_return.yy",},"order":0,},

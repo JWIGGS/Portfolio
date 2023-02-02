@@ -34,6 +34,7 @@
     {"name":"raycast_object","order":1,"path":"scripts/raycast_object/raycast_object.yy",},
     {"name":"concat","order":3,"path":"scripts/concat/concat.yy",},
     {"name":"unique_arguments","order":23,"path":"scripts/unique_arguments/unique_arguments.yy",},
+    {"name":"draw_sprite_fill_area","order":9,"path":"scripts/draw_sprite_fill_area/draw_sprite_fill_area.yy",},
     {"name":"gui_point_x","order":2,"path":"scripts/gui_point_x/gui_point_x.yy",},
     {"name":"draw_text_formatting","order":7,"path":"scripts/draw_text_formatting/draw_text_formatting.yy",},
     {"name":"array_return","order":10,"path":"scripts/array_return/array_return.yy",},
